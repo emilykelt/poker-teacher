@@ -2,4 +2,4 @@
 
 # Poker Teacher
 
-Created in [T3 Code](https://t3.codes).
+Teaching me poker so I don't embarrass myself
